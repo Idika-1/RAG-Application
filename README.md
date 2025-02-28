@@ -5,7 +5,7 @@ In this mini-project I developed a Retrieval Augmented Generation (RAG) system t
 - a transformer model to embed data and user’s query;
 - a Large Language Model (LLM) to curate response to a user’s query based on the prompt (user’s query and context from the data) fed to the LLM.
 
-The steps I followed are: 
+The steps I followed are:   
 **Step 1: Environment Setup**  
 -	I ensured that I had Python installed on my Virtual Machine.   
 -	I used a VM running on an Ubuntu OS on an Oracle VirtualBox.  
